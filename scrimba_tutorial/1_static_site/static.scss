@@ -1,0 +1,84 @@
+// @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap");
+
+// $backgroundColor: #17171a;
+// $ReactColor: rgb(50, 211, 214);
+
+// @mixin Background($opa) {
+//   background: rgba($color: $backgroundColor, $alpha: $opa);
+// }
+
+// :root {
+//   text-align: left;
+// } /*# sourceMappingURL=global.css.map */
+
+// body {
+//   margin: 0;
+//   padding: 0;
+//   color: white;
+//   font-family: "Poppins", sans-serif;
+// }
+
+// .nav-list {
+//   justify-content: space-between;
+//   display: flex;
+//   list-style: none;
+//   li {
+//     margin: 0px 20px;
+//   }
+// }
+
+// header {
+//   @include Background(1);
+
+//   padding: 16px;
+// }
+
+// .nav {
+//   display: flex;
+//   justify-content: space-between;
+//   align-items: center;
+// }
+
+// .logo {
+//   display: flex;
+//   img {
+//     width: 30px;
+//     margin: 0px 10px;
+//   }
+//   h1 {
+//     font-size: 20px;
+//     font-weight: 600;
+//     color: $ReactColor;
+//   }
+// }
+
+// main {
+//   padding: 20px;
+//   padding-top: 30px;
+//   @include Background(0.9);
+//   li {
+//     margin: 10px;
+//     &:hover {
+//       color: red;
+//     }
+//     &::marker {
+//       font-size: 1.2rem;
+//       color: $ReactColor;
+//     }
+//   }
+//   h1 {
+//     font-weight: 00;
+//   }
+//   .bg-img {
+//     position: absolute;
+//     top: 190px;
+//     right: -125px;
+//     width: 250px;
+//     opacity: 5%;
+//   }
+// }
+
+// footer {
+//   @include Background(0.9);
+//   padding: 20px;
+// }

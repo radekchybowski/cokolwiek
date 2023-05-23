@@ -1,0 +1,116 @@
+// .body {
+//   display: flex;
+//   justify-content: center;
+//   height: 100vh;
+//   align-items: center;
+//   background: rgb(242, 242, 242);
+//   font-family: inter;
+// }
+
+// .bio-snippet-wrapper {
+//   width: 350px;
+//   background: rgb(1, 7, 24);
+//   border-radius: 15px;
+//   overflow: hidden;
+
+//   .content-wrapper {
+//     padding: 10px 35px;
+//   }
+// }
+
+// .profile-pic {
+//   width: 100%;
+//   aspect-ratio: 1;
+// }
+
+// .info {
+//   text-align: center;
+
+//   h2,
+//   h4,
+//   .mail {
+//     margin: 2px;
+//     padding: 0;
+//   }
+//   h2 {
+//     font-weight: 600;
+//     font-size: 1.6em;
+//   }
+
+//   h4 {
+//     font-weight: 400;
+//     color: rgb(255, 149, 110);
+//     font-size: 1.1em;
+//   }
+
+//   .mail {
+//     margin-top: 10px;
+//     font-weight: 200;
+//     font-size: 0.7em;
+//   }
+
+//   .buttons {
+//     display: flex;
+//     justify-content: space-between;
+//     margin: 20px 0;
+//   }
+
+//   .btn {
+//     width: 130px;
+//     padding: 12px 0px;
+//     border: none;
+//     border-radius: 8px;
+//     font-size: 1em;
+//     font-weight: 200;
+//     letter-spacing: 0.03em;
+//     i,
+//     span {
+//       margin: 0 5px;
+//     }
+//     &:hover {
+//       cursor: pointer;
+//       transform: scale(1.05);
+//     }
+//   }
+
+//   .btn-linkedin {
+//     color: white;
+//     background-color: rgb(41, 116, 197);
+//   }
+// }
+
+// .about,
+// .interests {
+//   h3,
+//   p {
+//     margin: 0;
+//   }
+
+//   p {
+//     font-size: 0.8em;
+//     font-weight: 200px;
+//     line-height: 1.5em;
+//     margin-bottom: 20px;
+//   }
+// }
+
+// .footer {
+//   display: flex;
+//   justify-content: center;
+//   align-items: center;
+//   width: 100%;
+//   padding: 20px 0;
+//   background-color: rgb(1, 1, 13);
+
+//   .btn-social {
+//     background-color: rgba(255, 255, 255, 0.6);
+//     padding: 7px 8px;
+//     margin: 0 10px;
+//     border-radius: 4px;
+//     color: rgba(1, 1, 13, $alpha: 1);
+//     &:hover {
+//       cursor: pointer;
+//       background-color: rgba(255, 255, 255, 0.8);
+//     }
+//   }
+// }
